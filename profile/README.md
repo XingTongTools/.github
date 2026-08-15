@@ -12,21 +12,21 @@
 
 ## 產品
 
-| 產品 | 用途 | 介紹 | 正式下載 |
+| 產品 | 用途 | 介紹 | 版本與更新 |
 |---|---|---|---|
-| **星瞳經驗辨識工具** | 即時 EXP 觀測、HUD、練功統計與圖表報告 | [XingTong-EXP](https://github.com/XingTongTools/XingTong-EXP) | [最新 Release](https://github.com/ayzn0524/MStarBotEXP/releases/latest) |
-| **星瞳腳本** | Windows 桌面遊戲視覺辨識與自動化工具 | [XingTong-MStarBot](https://github.com/XingTongTools/XingTong-MStarBot) | [最新 Release](https://github.com/ayzn0524/MStarBot_Updates/releases/latest) |
+| **星瞳經驗辨識工具** | 即時 EXP 觀測、HUD、練功統計與圖表報告 | [XingTong-EXP](https://github.com/XingTongTools/XingTong-EXP) | [GitHub Releases](https://github.com/ayzn0524/MStarBotEXP/releases/latest) |
+| **星瞳腳本** | Windows 桌面遊戲視覺辨識與自動化工具 | [XingTong-MStarBot](https://github.com/XingTongTools/XingTong-MStarBot) | [GitHub Releases](https://github.com/ayzn0524/MStarBot_Updates/releases/latest) |
 
 ## 這裡提供
 
 - 官方產品介紹與功能說明
 - 安裝、更新及常見問題文件
-- 正式版本下載導向
+- 正式版本與更新下載導向
 - 版本公告與問題回報入口
 
 ## 發布方式
 
-本 Organization 的公開 Repository 用於品牌、文件與下載導向，不公開核心程式原始碼。正式安裝檔及更新檔以各產品頁標示的 GitHub Releases 為準。
+本 Organization 的公開 Repository 用於品牌、文件與下載導向，不公開核心程式原始碼。完整主程式與更新包依各產品頁及 GitHub Release 的資產說明區分，不應將更新包當成首次安裝包使用。
 
 ## 更新相容性
 
