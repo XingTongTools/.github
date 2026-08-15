@@ -14,8 +14,8 @@
 
 | 產品 | 用途 | 介紹 | 版本與更新 |
 |---|---|---|---|
-| **星瞳經驗辨識工具** | 即時 EXP 觀測、HUD、練功統計與圖表報告 | [XingTong-EXP](https://github.com/XingTongTools/XingTong-EXP) | [GitHub Releases](https://github.com/ayzn0524/MStarBotEXP/releases/latest) |
-| **星瞳腳本** | Windows 桌面遊戲視覺辨識與自動化工具 | [XingTong-MStarBot](https://github.com/XingTongTools/XingTong-MStarBot) | [GitHub Releases](https://github.com/ayzn0524/MStarBot_Updates/releases/latest) |
+| **星瞳經驗辨識工具** | 支援楓星、Artale、新楓之谷：經典版；提供即時 EXP 觀測、HUD、練功統計與圖表報告 | [XingTong-EXP](https://github.com/XingTongTools/XingTong-EXP) | [GitHub Releases](https://github.com/ayzn0524/MStarBotEXP/releases/latest) |
+| **星瞳腳本** | 支援楓星、新楓之谷：經典版的 Windows 桌面視覺辨識與自動化工具 | [XingTong-MStarBot](https://github.com/XingTongTools/XingTong-MStarBot) | [GitHub Releases](https://github.com/ayzn0524/MStarBot_Updates/releases/latest) |
 
 ## 這裡提供
 
