@@ -6,7 +6,7 @@
 
 以 Windows 桌面為核心的遊戲視覺辨識、數據觀測與自動化工具系列。
 
-[EXP 工具](https://github.com/XingTongTools/XingTong-EXP) · [星瞳腳本](https://github.com/XingTongTools/XingTong-MStarBot)
+[工作室網站｜Axis V Studio](https://axisvstudio.com) · [EXP 工具](https://github.com/XingTongTools/XingTong-EXP) · [星瞳腳本](https://github.com/XingTongTools/XingTong-MStarBot)
 
 </div>
 
